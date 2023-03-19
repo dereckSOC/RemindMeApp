@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Final Submission.iml" filepath="$PROJECT_DIR$/.idea/Final Submission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemindMe.iml" filepath="$PROJECT_DIR$/RemindMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RemindMe.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RemindMe.app.iml" />
     </modules>
   </component>
 </project>
